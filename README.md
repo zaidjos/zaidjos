@@ -1,4 +1,4 @@
-## mi titulo zaidjos
+# mi titulo zaidjos
 ---
 
 - 👋 Hi, I’m @zaidjos
