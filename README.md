@@ -8,8 +8,8 @@
 - ⚡ Fun fact: ...
 lista
 - cero
-- uno
-- dos
+1. uno
+2. dos
 
 ---
 >esta informcaion lo saque de esta pagina
