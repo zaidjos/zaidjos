@@ -1,3 +1,4 @@
+#titulo 
 - 👋 Hi, I’m @zaidjos
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,13 +7,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 lista
--cero
--uno
--dos
+- cero
+- uno
+- dos
 
 ---
 
-~~texto
+
 
 <!---
 zaidjos/zaidjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
