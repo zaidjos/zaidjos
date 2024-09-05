@@ -13,7 +13,8 @@ lista
 palabra en normal **palabra en negritas**
 
 |---|---|---|
-|1|2|3|
+|uno|dos|tres|
+
 
 >esta informcaion lo saque de esta pagina
 
