@@ -1,4 +1,4 @@
-*ANGELES VALENCIA ZAID JOSUE 
+* ANGELES VALENCIA ZAID JOSUE 
 ------
 Soy estudiente de **la Universidad Autónoma Benito Juárez de Oaxaca** primer semestre de la __Licenciatura en Computación__.
 
