@@ -4,5 +4,5 @@ ANGELES VALENCIA ZAID JOSUE
 
 * Está es es mi cuente de github donde voy a estar subiendo mis futuros proyectos y trabajos para mi  *introducción a la computacion*.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!NOTA]
+> Soy total mente nuevo en esto de la programación.
