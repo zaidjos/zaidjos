@@ -1,8 +1,5 @@
-ANGELES VALENCIA ZAID JOSUE 
-------
-* Soy estudiente de **la Universidad Autónoma Benito Juárez de Oaxaca** primer semestre de la __Licenciatura en Computación__.
-
-* Está es es mi cuente de github donde voy a estar subiendo mis futuros proyectos y trabajos para mi  *introducción a la computacion*.
-
-> [NOTA]
-> Soy total mente nuevo en esto de la programación.
+# Hi there 👋 me llamo angeles valencia zaid josue 
+---
+> Estudio en la Universidad **Autónoma Benito Juárez de Oaxaca**
+<picture>
+ <source media="https://www.google.com/imgres?q=uabjo%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F16%2FEscudo_de_UABJO.svg%2F1200px-Escudo_de_UABJO.svg.png&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AEscudo_de_UABJO.svg&docid=J7xAG8mM10N4aM&tbnid=IiMmxG1v7LuEMM&vet=12ahUKEwiN4Yyvy7aIAxXaMEQIHWOlD94QM3oECBoQAA..i&w=1200&h=1478&hcb=2&ved=2ahUKEwiN4Yyvy7aIAxXaMEQIHWOlD94QM3oECBoQAA" srcset="https://www.google.com/imgres?q=uabjo%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F16%2FEscudo_de_UABJO.svg%2F1200px-Escudo_de_UABJO.svg.png&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AEscudo_de_UABJO.svg&docid=J7xAG8mM10N4aM&tbnid=IiMmxG1v7LuEMM&vet=12ahUKEwiN4Yyvy7aIAxXaMEQIHWOlD94QM3oECBoQAA..i&w=1200&h=1478&hcb=2&ved=2ahUKEwiN4Yyvy7aIAxXaMEQIHWOlD94QM3oECBoQAA">
