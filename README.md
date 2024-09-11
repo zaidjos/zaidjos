@@ -29,3 +29,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidjos1)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaidjos_oficial)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zaid.ibarra.902)
+------
+[![](https://visitcount.itsvg.in/api?id=zaidjos&icon=6&color=4)](https://visitcount.itsvg.in)
