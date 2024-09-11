@@ -20,10 +20,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaidjos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidjos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidjos&repo=github-readme-stats)](https://github.com/zaidjos/github-readme-stats)
 ## Tecnologías
 - Lenguajes de programación: aun iniexperto en los lenguajes de programacion
 
   ## 🌐 mis redes sociales:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidjos1)
-
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaidjos_oficial)
